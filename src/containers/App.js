@@ -1,15 +1,17 @@
-import styled from "styled-components";
+import List from "../components/list";
+import styled from 'styled-components'
 
+const StyledContainer = styled.div`
+  background-color: #73BCBA;
+  color: white;
+  font-size: 32px;
+`
 
-const styledContainer = styled.div`
-    background-color: hsl(180, 52%, 96%);
-
-` 
 function App() {
   return (
-    <styledContainer>
-      
-    </styledContainer>
+    <StyledContainer>
+      <List />
+    </StyledContainer>
   );
 }
 
