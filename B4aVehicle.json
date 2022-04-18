@@ -9,7 +9,8 @@
     "role": "  Fullstack",
     "level": "  Midweight",
     "Languajes": "  Python",
-    "tools": "React"
+    "tools": "React",
+    "img":""
   },
   {
     "objectId": "SYJ6zYfoLs",
@@ -18,7 +19,8 @@
     "level": "Senior",
     "createdAt": "2022-04-17T20:25:46.752Z",
     "updatedAt": "2022-04-17T20:26:28.230Z",
-    "Languajes": "  HTML\n  CSS\n  JavaScript"
+    "Languajes": "  HTML\n  CSS\n  JavaScript",
+    "img":""
   },
   {
     "objectId": "9yRM2WiiIz",
@@ -28,7 +30,8 @@
     "createdAt": "2022-04-17T20:26:57.916Z",
     "updatedAt": "2022-04-17T20:27:48.918Z",
     "Languajes": "  JavaScript",
-    "tools": "  React\n  Sass"
+    "tools": "  React\n  Sass",
+    "img":""
   },
   {
     "objectId": "PClcOZoENk",
@@ -38,7 +41,8 @@
     "createdAt": "2022-04-17T20:27:55.965Z",
     "updatedAt": "2022-04-17T20:29:41.148Z",
     "Languajes": "  CSS\n  JavaScript",
-    "tools": "Sass"
+    "tools": "Sass",
+    "img":""
   },
   {
     "objectId": "9S37u8wDo0",
@@ -48,7 +52,8 @@
     "createdAt": "2022-04-17T20:28:47.484Z",
     "updatedAt": "2022-04-17T20:29:26.092Z",
     "Languajes": "JavaScript\n  Ruby",
-    "tools": ""
+    "tools": "",
+    "img":""
   },
   {
     "objectId": "GZZZN3wz25",
@@ -58,7 +63,8 @@
     "createdAt": "2022-04-17T20:29:54.268Z",
     "updatedAt": "2022-04-17T20:30:23.781Z",
     "Languajes": "Ruby",
-    "tools": "RoR"
+    "tools": "RoR",
+    "img":""
   },
   {
     "objectId": "7MeGz4Qrnu",
@@ -68,7 +74,8 @@
     "createdAt": "2022-04-17T20:30:36.951Z",
     "updatedAt": "2022-04-17T20:31:07.281Z",
     "Languajes": "  HTML\n  JavaScript",
-    "tools": "Sass"
+    "tools": "Sass",
+    "img":""
   },
   {
     "objectId": "vJBzD93Vf4",
@@ -78,7 +85,8 @@
     "createdAt": "2022-04-17T20:31:16.261Z",
     "updatedAt": "2022-04-17T20:31:45.985Z",
     "Languajes": "JavaScript",
-    "tools": " Vue\n  Sass"
+    "tools": " Vue\n  Sass",
+    "img":""
   },
   {
     "objectId": "icQL2crx0V",
@@ -88,7 +96,8 @@
     "createdAt": "2022-04-17T20:31:57.789Z",
     "updatedAt": "2022-04-17T20:32:28.745Z",
     "Languajes": "JavaScript\n  Python",
-    "tools": "Django"
+    "tools": "Django",
+    "img":""
   },
   {
     "objectId": "BR4skrexft",
@@ -98,7 +107,8 @@
     "createdAt": "2022-04-17T20:32:39.480Z",
     "updatedAt": "2022-04-17T20:33:08.481Z",
     "Languajes": "JavaScript",
-    "tools": " React\n  Sass"
+    "tools": " React\n  Sass",
+    "img":""
   }
 ]
 }

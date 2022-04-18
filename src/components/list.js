@@ -1,21 +1,21 @@
 import React, { Component } from "react";
-import { Container } from "react-bootstrap";
-import card from "./card";
+import { Container,Navbar} from "react-bootstrap";
+import Card from "./Card";
 
-export default class list extends Component {
+export default class List extends Component {
     constructor() {
         super()
-        this.state = {
-            personajes: []
-        }
+            this.state = {
+                jobs: []
+            }
     }
 
     componentDidMount() {
         console.log('Se acaba de montar');
-        this.getPersonaje()
+        this.getEmpleo()
     }
 
-    getPersonaje = async () => {
+    getEmpleo = async () => {
         const url = 'https://rickandmortyapi.com/api/character/'
         const resp = await fetch(url)
 
@@ -25,19 +25,19 @@ export default class list extends Component {
         const { results } = await resp.json()
 
         this.setState({
-            personajes: results
+            jobs: results
         })
     }
 
     render() {
         return (
+            
             <Container>
-                <h1 color="white" >Lista de personajes</h1>
-                <hr />
+               <Navbar expand="xl" variant="dark" bg="hsl(180, 29%, 50%)">Navbar</Navbar>
                 <div style={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap' }}>
                     {
-                        this.state.personajes.map((ricky, index) => (
-                            <card ricky={ricky} key={index}
+                        this.state.jobs.map((Empleo, index) => (
+                            <Card Empleo={Empleo} key={index}
                             />
                         ))
                     }
