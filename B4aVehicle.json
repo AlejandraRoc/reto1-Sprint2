@@ -8,7 +8,7 @@
     "itemStart": "  Manage\n  New!\n  Featured\n  Fullstack Developer\n  1d ago\n  Part Time\n  Remote",
     "role": "  Fullstack",
     "level": "  Midweight",
-    "Languajes": "  Python",
+    "Languages": "  Python",
     "tools": "React",
     "img":""
   },
@@ -19,7 +19,7 @@
     "level": "Senior",
     "createdAt": "2022-04-17T20:25:46.752Z",
     "updatedAt": "2022-04-17T20:26:28.230Z",
-    "Languajes": "  HTML\n  CSS\n  JavaScript",
+    "Languages": "  HTML\n  CSS\n  JavaScript",
     "img":""
   },
   {
@@ -29,7 +29,7 @@
     "level": "Junior",
     "createdAt": "2022-04-17T20:26:57.916Z",
     "updatedAt": "2022-04-17T20:27:48.918Z",
-    "Languajes": "  JavaScript",
+    "Languages": "  JavaScript",
     "tools": "  React\n  Sass",
     "img":""
   },
@@ -40,7 +40,7 @@
     "level": "Junior",
     "createdAt": "2022-04-17T20:27:55.965Z",
     "updatedAt": "2022-04-17T20:29:41.148Z",
-    "Languajes": "  CSS\n  JavaScript",
+    "Languages": "  CSS\n  JavaScript",
     "tools": "Sass",
     "img":""
   },
@@ -51,7 +51,7 @@
     "level": "  Midweight",
     "createdAt": "2022-04-17T20:28:47.484Z",
     "updatedAt": "2022-04-17T20:29:26.092Z",
-    "Languajes": "JavaScript\n  Ruby",
+    "Languages": "JavaScript\n  Ruby",
     "tools": "",
     "img":""
   },
@@ -62,7 +62,7 @@
     "level": "Junior",
     "createdAt": "2022-04-17T20:29:54.268Z",
     "updatedAt": "2022-04-17T20:30:23.781Z",
-    "Languajes": "Ruby",
+    "Languages": "Ruby",
     "tools": "RoR",
     "img":""
   },
@@ -73,7 +73,7 @@
     "level": "Junior",
     "createdAt": "2022-04-17T20:30:36.951Z",
     "updatedAt": "2022-04-17T20:31:07.281Z",
-    "Languajes": "  HTML\n  JavaScript",
+    "Languages": "  HTML\n  JavaScript",
     "tools": "Sass",
     "img":""
   },
@@ -84,7 +84,7 @@
     "level": "Junior",
     "createdAt": "2022-04-17T20:31:16.261Z",
     "updatedAt": "2022-04-17T20:31:45.985Z",
-    "Languajes": "JavaScript",
+    "Languages": "JavaScript",
     "tools": " Vue\n  Sass",
     "img":""
   },
@@ -95,7 +95,7 @@
     "level": "Midweight",
     "createdAt": "2022-04-17T20:31:57.789Z",
     "updatedAt": "2022-04-17T20:32:28.745Z",
-    "Languajes": "JavaScript\n  Python",
+    "Languages": "JavaScript\n  Python",
     "tools": "Django",
     "img":""
   },
@@ -106,7 +106,7 @@
     "level": "Junior",
     "createdAt": "2022-04-17T20:32:39.480Z",
     "updatedAt": "2022-04-17T20:33:08.481Z",
-    "Languajes": "JavaScript",
+    "Languages": "JavaScript",
     "tools": " React\n  Sass",
     "img":""
   }

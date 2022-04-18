@@ -6,12 +6,17 @@ const StyledContainer = styled.div`
   font-size: 32px;
 `
 
-
+const StyledNav = styled.Navbar`
+  background-color: hsl(180, 52%, 96%);
+  font-size: 32px;
+`
 function App() {
   return (
     <StyledContainer>
       <List />
     </StyledContainer>
+
+
   );
 }
 

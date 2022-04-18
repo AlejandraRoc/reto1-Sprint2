@@ -3,24 +3,27 @@ import { Card} from "react-bootstrap";
 
 export default class Cards extends Component {
     render() {
-        const { name, status, species, gender, image} = this.props.Empleo
+        const { itemStart, role, level, languages, Img,tools} = this.props.Empleo
 
         return (
           
             <div>
               
               <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={image} />
+                <Card.Img variant="top" src={Img} />
                 <Card.Body>
-                  <Card.Title>{name}</Card.Title>
+                  <Card.Title>{role}</Card.Title>
                   <Card.Text>
-                    {status}
+                    {itemStart}
                   </Card.Text>
                   <Card.Text>
-                    {species}
+                    {level}
                   </Card.Text>
                   <Card.Text>
-                    {gender}
+                    {languages}
+                  </Card.Text>
+                  <Card.Text>
+                    {tools}
                   </Card.Text>
                 </Card.Body>
               </Card>
